@@ -72,6 +72,8 @@ function handleEvent(event) {
     return client.replyMessage(event.replyToken, replyMsg);
 }
 
+app.use(express.static('images'));
+
 // listen on port
 const port = process.env.PORT || 3000;
 app.listen(port, () => {
