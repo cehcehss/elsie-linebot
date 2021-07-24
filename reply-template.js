@@ -2,7 +2,7 @@ module.exports = {
     getReplyMessage: function(keyword) {
         var replyMessage = [];
     	switch(keyword) {
-    		case "aboutElsie":
+    		case "about":
                 var msg = {
                     "type": "template",
                     "altText": "this is a buttons template",

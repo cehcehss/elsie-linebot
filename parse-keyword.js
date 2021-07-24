@@ -1,7 +1,7 @@
 module.exports = {
     keywords:function(){
         return {
-            "aboutElsie":["aboutElsie","自我介紹","嗨","安安"],
+            "about":["about Elsie","自我介紹","嗨","安安"],
             "portfolio":["portfolio","作品"],
             "photos":["photos","照片"]
         }
