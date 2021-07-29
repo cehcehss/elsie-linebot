@@ -17,4 +17,4 @@ Feel free to make a friend with my Line Bot. :)
 
 ### My Interests
 
-![My Interests](https://firebasestorage.googleapis.com/v0/b/elsie-linebot.appspot.com/o/IMG_9990.PNG?alt=media&token=d18f7697-e252-4f52-89a5-40b68aa142ab)
+![IMG_9990](https://user-images.githubusercontent.com/9403025/127450459-704a2602-64ac-4d56-9c49-f7683b877c4c.PNG)
